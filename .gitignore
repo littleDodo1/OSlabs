@@ -1,3 +1,9 @@
 .child
 .parent
 .vscode
+a.out
+first
+lib1.so
+lib2.so
+libcustomlib.so
+second
